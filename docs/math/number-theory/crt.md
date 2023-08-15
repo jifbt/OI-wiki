@@ -16,10 +16,10 @@ $2\times 70+3\times 21+2\times 15=233=2\times 105+23$，故答案为 $23$。
 
 $$
 \begin{cases}
-x &\equiv a_1 \pmod {n_1} \\
-x &\equiv a_2 \pmod {n_2} \\
-  &\vdots \\
-x &\equiv a_k \pmod {n_k} \\
+x \equiv a_1 \pmod {n_1} \\
+x \equiv a_2 \pmod {n_2} \\
+\cdots \\
+x \equiv a_k \pmod {n_k} \\
 \end{cases}
 $$
 
